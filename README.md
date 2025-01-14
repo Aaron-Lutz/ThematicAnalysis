@@ -2,6 +2,8 @@
 
 A Python-based tool for performing thematic analysis on collections of PDF documents. It supports both supervised (using key concepts) and unsupervised (clustering) analysis, leveraging NLP techniques and GPT models for insightful results.
 
+This thematic analyzer can also be run directly in this [google collab notebook](https://colab.research.google.com/drive/181m_di0C8bzOgJxSKUgpuklvSpTzEQOV?usp=sharing). To do your thematic analysis, follow the instructions in the notebook. No additional setup is required.
+
 ## Features
 
 -   **PDF Processing:** Extracts text from PDFs, including handling scanned documents with OCR (optional).
@@ -90,8 +92,8 @@ The CSV files contain the following columns:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Contributing
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute (optional).
+Contributions are welcome!
